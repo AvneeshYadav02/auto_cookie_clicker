@@ -10,7 +10,7 @@ Before running the script please make sure that you have the Firefox browser and
 # *USAGE*
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AvneeshYadav02/auto_cookie_clicker
+   git clone https://github.com/AvneeshYadav02/auto_cookie_clicker.git
    ```
 2. Install dependencies:
    ```bash
