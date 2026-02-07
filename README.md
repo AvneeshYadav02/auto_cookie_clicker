@@ -2,7 +2,7 @@
 
 A **Python** automation script that uses Selenium to play [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/). The bot automatically clicks the big cookie, handles language selection and automatically purchases the most expensive & purchasable item from the in-game shop.
 
-![cookie-clicker](./gif/cookie_click.gif
+![cookie-clicker](./gif/cookie_click.gif)
 
 # *PREREQUISITES*
 Before running the script please make sure that you have the Firefox browser and the Selenium library installed.
